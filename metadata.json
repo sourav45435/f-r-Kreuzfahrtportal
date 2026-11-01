@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix KreuzfahrtParkplatz.de",
+  "description": "Deutschlands Vergleichsportal für Kreuzfahrtparkplätze an allen wichtigen Häfen. Einfach, sicher und stressfrei parken mit Allianz Parkplatzschutz inklusive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
